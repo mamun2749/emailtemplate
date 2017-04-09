@@ -1,0 +1,21 @@
+.header img {
+	width: 100%;
+}
+.content img{
+	width: 100%;
+
+}
+.spacer {
+	width: 20px;
+}
+.padding10 {
+	padding: 10px;
+	text-align: center;
+}
+.padding20 {
+	padding: 20px;
+}
+.footer {
+	background-color: green;
+	text-align: center;
+}
